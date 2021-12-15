@@ -2,4 +2,4 @@
 
 Basic website homepage.
 
-https://drewtempleton1.github.io/Landing-Page/
+https://drewtempl.github.io/Landing-Page/
